@@ -1,5 +1,6 @@
 # Driver-Drowisness-Detection
-This system is used in detecting the drowsiness level in drivers while driving. 
+This system is used in detecting the drowsiness level in drivers while driving.
+
 PROPOSED METHODOLOGY 
 
 Detection Stage: 
